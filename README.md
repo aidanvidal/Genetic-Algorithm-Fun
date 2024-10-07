@@ -19,4 +19,6 @@ This repository contains the programs that I made which use genetic algorithms.
 - The fitness is determined by the difference between the image's RGB values.
 - The mutation randomly changes a shape.
 - Below is the result of 1000 generations.
+
+
 ![A goomba generated from a genetic algorithm after 1000 generations](250_Shapes_Goomba.png)
